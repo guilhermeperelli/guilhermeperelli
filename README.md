@@ -1,9 +1,6 @@
-## Hello, World!👋
+## My Biography
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6133f7ff=900&size=22&center=true&lines=Hello,+World!;My+name+is+Guilherme;I'm+from+Brazil;I'm+a+programming+student;Be+welcome+to+my+laboratory!" alt="Typing SVG"/>
-<div align="center">
-  <img src="https://img.shields.io/badge/GWT-black" />
-</div>
 <br>
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=guilhermeperelli&rank_icon=github&show_icons=true&theme=dark&count_private=true">
